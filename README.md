@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p>
 👋  Hi there! I'm <b>a backend developer</b> .🚀<br/>
-Sometimes I play CTF for fun. <br/><br/>
-I enjoy reading and jogging. ⛰ 🏄<br/>
+Sometimes I play CTF for fun. <br/><br/> 🏴‍☠️
+I enjoy reading and walking. 📚 👣<br/>
 I hope to develop every fun things. ✨ <br/><br/>
 </p>
 
