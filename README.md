@@ -23,5 +23,20 @@ Sometimes I play CTF for fun. <br/><br/>
 I enjoy reading and jogging. ⛰ 🏄<br/>
 I hope to develop every fun things. ✨ <br/><br/>
 </p>
+### 💪 Skills
+#### Platforms & Languages
+<p>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+</p>
+
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  
+</p>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=leftcompact)
