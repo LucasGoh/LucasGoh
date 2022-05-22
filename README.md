@@ -38,7 +38,8 @@ I hope to develop every fun things. ✨ <br/><br/>
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>  
 </p>
 
+### Algorithm
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=leftcompact)
