@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Gmail&logoColor=white](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)"/></a>
+
+</p>
+
+<p>
+👋  Hi there! I'm <b>a backend developer</b> .🚀<br/>
+Sometimes I play CTF for fun. <br/><br/>
+I enjoy reading and jogging. ⛰ 🏄<br/>
+I hope to develop every fun things. ✨ <br/><br/>
+</p>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool)
