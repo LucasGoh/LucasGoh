@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Gmail&logoColor=white](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)"/></a>
-
+<p>
+<a href=”[mailto:leftcompact@gmail.com](mailto:leftcompact@gmail.com)” target="_blank"><img src="[https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)"/></a>
 </p>
+
 
 <p>
 👋  Hi there! I'm <b>a backend developer</b> .🚀<br/>
