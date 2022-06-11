@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <p>
  <a href="mailto:leftcompact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leftcompact@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/chulnamG" tartget="_blank"><img src="https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Ftwitter.com%2FchulnamG"></a>
+<a href="https://twitter.com/chulnamG" tartget="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FchulnamG"></a>
 </p>
 
 
