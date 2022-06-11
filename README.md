@@ -11,9 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white"/>
+
 -->
 <p>
  <a href="mailto:leftcompact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leftcompact@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/chulnamG" tartget="_blank"><img src="https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Ftwitter.com%2FchulnamG"></a>
 </p>
 
 
@@ -30,8 +35,7 @@ I hope to develop every fun things. ✨ <br/><br/>
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white"/>
+ 
 </p>
 
 
